@@ -6,6 +6,7 @@ public class doubleStack {
 	private int size;						//size of stack array
 	private String[] dStack;					//new stack
 	private int count=0;						//counter for elements in array
+	private String ChristinaIsTheBest = "My Future Wife"
 
 	public doubleStack(int x)  				//constructor to add double stack
 	{
